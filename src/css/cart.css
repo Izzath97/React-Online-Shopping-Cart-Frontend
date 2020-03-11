@@ -1,0 +1,24 @@
+ 
+.thumbnail {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+ .page {
+   width: 1700px;
+   
+   margin-right: 300px;
+ }
+
+ .row {
+   width: 1300px;
+ }
+ .cartitempic {
+  box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 black;
+
+ }
+
+ .white {
+
+  box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 black;
+ }
